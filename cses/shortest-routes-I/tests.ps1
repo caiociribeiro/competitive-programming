@@ -1,4 +1,4 @@
-$javaSource = "shortest-routes-I.java"
+$javaSource = "Main.java"
 $javaClass = "Main"
 $testDir = "tests"
 
